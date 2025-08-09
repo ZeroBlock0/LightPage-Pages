@@ -11,8 +11,7 @@ const AppConfig = {
       return devServers.indexOf(window.location.hostname) !== -1
     },
     apiUrl() {
-      // 直接使用相对路径
-      return '' 
+      return this.isDev ? 'http://127.0.0.1:8088' : ''
     }
   },
 
