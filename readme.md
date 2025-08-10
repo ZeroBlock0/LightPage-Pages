@@ -23,9 +23,9 @@ https://lazy.ink
 
 版权所有，如果你喜欢这个主页，欢迎给我个 `Star`。
 
+注：这只是fork的，原仓库：[LazyCreeper/LightPage: 一个简单的个人主页](https://github.com/LazyCreeper/LightPage)
 
 ======================================================
-
 
 # 1. 推送到 GitHub
 
